@@ -25,11 +25,14 @@ A simple command-line-based **Tic-Tac-Toe** game written in C for two players. P
    ```bash
    git clone https://github.com/yourusername/tic-tac-toe-c.git
 2. Navigate to the project directory:
-    ```cd tic-tac-toe-c
+    ```
+    cd tic-tac-toe-c
 3. Compile the C code:
-   ```gcc -o tic-tac-toe main.c
+   ```
+   gcc -o tic-tac-toe main.c
 4. Run the game:
-   ```/main
+   ```
+   /main
 
 ## Gameplay Instructions
 Player 1 (X) starts the game by choosing a number between 1 and 9 corresponding to the grid position.
